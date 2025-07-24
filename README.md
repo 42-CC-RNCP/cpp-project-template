@@ -1,1 +1,1 @@
-# cpp_template
+# cpp2_template
